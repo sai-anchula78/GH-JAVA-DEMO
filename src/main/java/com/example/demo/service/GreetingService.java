@@ -12,4 +12,4 @@ public class GreetingService {
         return "Hello, " + name + "!";
     }
 }
-#Test cases for the CI run and will be cleared
+#Test cases for demo
