@@ -12,4 +12,3 @@ public class GreetingService {
         return "Hello, " + name + "!";
     }
 }
-#Test cases for demo
